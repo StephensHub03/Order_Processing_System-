@@ -1,0 +1,175 @@
+[
+  {
+    "order_id": 501,
+    "date": "2026-09-20",
+    "customer": "Metro Supermarket",
+    "items": [
+      { "product": "Rice", "qty": 15, "rate": 80 },
+      { "product": "Cooking Oil", "qty": 5, "rate": 160 }
+    ]
+  },
+  {
+    "order_id": 502,
+    "date": "2026-09-20",
+    "customer": "Green Mart",
+    "items": [
+      { "product": "Wheat Flour", "qty": 10, "rate": 45 }
+    ]
+  },
+  {
+    "order_id": 503,
+    "date": "2026-09-20",
+    "customer": "",
+    "items": [
+      { "product": "Sugar", "qty": 5, "rate": 42 }
+    ]
+  },
+  {
+    "order_id": 504,
+    "date": "2026-09-21",
+    "customer": "Sunrise Stores",
+    "items": [
+      { "product": "Milk", "qty": 25, "rate": 50 },
+      { "product": "Bread", "qty": 10, "rate": 40 }
+    ]
+  },
+  {
+    "order_id": 505,
+    "date": "2026-09-21",
+    "customer": "Daily Fresh",
+    "items": [
+      { "product": "Butter", "qty": 8, "rate": 120 }
+    ]
+  },
+  {
+    "order_id": 506,
+    "date": "2026-09-21",
+    "customer": "City Shop",
+    "items": [
+      { "product": "Tea", "qty": "two", "rate": 180 }
+    ]
+  },
+  {
+    "order_id": 507,
+    "date": "2026-09-22",
+    "customer": "Ravi Stores",
+    "items": [
+      { "product": "Soap", "qty": 30, "rate": 30 },
+      { "product": "Shampoo", "qty": 10, "rate": 140 }
+    ]
+  },
+  {
+    "order_id": 508,
+    "date": "2026-09-22",
+    "customer": "ABC Mart",
+    "items": [
+      { "product": "Biscuits", "qty": 20, "rate": 35 }
+    ]
+  },
+  {
+    "order_id": 509,
+    "date": "2026-09-22",
+    "customer": "Fresh Mart",
+    "items": []
+  },
+  {
+    "order_id": 510,
+    "date": "2026-09-23",
+    "customer": "City Supermarket",
+    "items": [
+      { "product": "Coffee", "qty": 12, "rate": 150 },
+      { "product": "Sugar", "qty": 10, "rate": 45 }
+    ]
+  },
+  {
+    "order_id": 511,
+    "date": "2026-09-23",
+    "customer": "Corner Mart",
+    "items": [
+      { "product": "Snacks", "qty": 15, "rate": 50 }
+    ]
+  },
+  {
+    "order_id": 512,
+    "date": "2026-09-23",
+    "customer": "Daily Needs",
+    "items": [
+      { "product": "Honey", "qty": 4 }
+    ]
+  },
+  {
+    "order_id": 513,
+    "date": "2026-09-24",
+    "customer": "Metro Supermarket",
+    "items": [
+      { "product": "Olive Oil", "qty": 6, "rate": 320 },
+      { "product": "Pasta", "qty": 12, "rate": 65 }
+    ]
+  },
+  {
+    "order_id": 514,
+    "date": "2026-09-24",
+    "customer": "Fresh Choice",
+    "items": [
+      { "product": "Oats", "qty": 10, "rate": 95 }
+    ]
+  },
+  {
+    "order_id": 515,
+    "date": "2026-09-24",
+    "customer": "Grand Bazaar",
+    "items": [
+      { "product": "Apples", "qty": -3, "rate": 120 }
+    ]
+  },
+  {
+    "order_id": 516,
+    "date": "2026-09-25",
+    "customer": "Sunrise Stores",
+    "items": [
+      { "product": "Detergent", "qty": 14, "rate": 110 },
+      { "product": "Toothpaste", "qty": 12, "rate": 85 }
+    ]
+  },
+  {
+    "order_id": 517,
+    "date": "2026-09-25",
+    "customer": "Green Mart",
+    "items": [
+      { "product": "Spices", "qty": 10, "rate": 75 }
+    ]
+  },
+  {
+    "order_id": 518,
+    "date": "2026-09-25",
+    "customer": "   ",
+    "items": [
+      { "product": "Rice", "qty": 5, "rate": 70 }
+    ]
+  },
+  {
+    "order_id": 519,
+    "date": "2026-09-26",
+    "customer": "Daily Fresh",
+    "items": [
+      { "product": "Cheese", "qty": 10, "rate": 180 },
+      { "product": "Milk", "qty": 20, "rate": 48 }
+    ]
+  },
+  {
+    "order_id": 520,
+    "date": "2026-09-26",
+    "customer": "Ravi Stores",
+    "items": [
+      { "product": "Tea", "qty": 15, "rate": 90 }
+    ]
+  },
+  {
+    "order_id": 521,
+    "date": "2026-09-26",
+    "customer": "Star Market",
+    "items": [
+      { "product": "Juice", "qty": 0, "rate": 60 }
+    ]
+  }
+]

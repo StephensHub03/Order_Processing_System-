@@ -1,0 +1,88 @@
+[
+  {
+    "order_id": 101,
+    "customer": "Ravi Stores",
+    "items": [
+      {
+        "product": "Soap",
+        "qty": 10,
+        "rate": 25
+      },
+      {
+        "product": "Shampoo",
+        "qty": 5,
+        "rate": 120
+      }
+    ]
+  },
+  {
+    "order_id": 102,
+    "customer": "ABC Mart",
+    "items": [
+      {
+        "product": "Oil",
+        "qty": 3,
+        "rate": 150
+      }
+    ]
+  },
+  {
+    "order_id": 103,
+    "customer": "",
+    "items": [
+      {
+        "product": "Rice",
+        "qty": 2,
+        "rate": 80
+      }
+    ]
+  },
+  {
+    "order_id": 104,
+    "customer": "City Shop",
+    "items": [
+      {
+        "product": "Oil",
+        "qty": "five",
+        "rate": 120
+      }
+    ]
+  },
+  {
+    "order_id": 105,
+    "customer": "Daily Needs",
+    "items": [
+      {
+        "product": "Tea",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "order_id": 106,
+    "customer": "Corner Shop",
+    "items": []
+  },
+  {
+    "order_id": 107,
+    "customer": "Fresh Mart",
+    "items": [
+      {
+        "product": "Sugar",
+        "qty": -2,
+        "rate": 45
+      }
+    ]
+  },
+  {
+    "order_id": 108,
+    "customer": "Ravi Stores",
+    "items": [
+      {
+        "product": "Toothpaste",
+        "qty": 3,
+        "rate": 91
+      }
+    ]
+  }
+]
